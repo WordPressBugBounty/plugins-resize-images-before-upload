@@ -1,0 +1,1 @@
+# plugins-resize-images-before-upload
